@@ -16,8 +16,8 @@ const About = () => {
             <div className='sm:text-right text-4xl font-bold'>
               <p>Hi. I'm Mohammed Ajwad, nice to meet you. Please take a look around.</p>
             </div>
-            <div>
-              <p>I am passionate about building execellent software that improves the lives of those around me. I specialise in creating software applications for clients ranging from individuals to small busniesses</p>  
+            <div className='sm:text-3xl'>
+              <p>A creative coding enthusiast who is interested in solving real world and scalibility problems. Interested in opportunities at startups or elsewhere!</p>  
             </div>
           </div>
       </div>
